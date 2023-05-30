@@ -1,0 +1,19 @@
+
+.icon{
+    font-size: 30px;
+    margin-left: 5px;
+    border-radius: 40px 100px;
+    background: rgba(255, 255, 255, 0.3);
+    padding: 10px;
+}
+
+.header__title{
+    padding-left: 200px;
+   
+}
+#home{
+    background: rgba(255, 255, 255, 0.3);
+    padding-top: 18rem;
+    height: 80vh;
+
+}

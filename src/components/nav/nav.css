@@ -1,0 +1,34 @@
+a{
+    text-decoration: none;
+    position: relative;
+   color: rgb(0, 0, 0);
+   letter-spacing: 0.5px;
+}
+nav{
+/* display: flex;
+justify-content: space-between;
+width: 40%; */
+background-color: rgba(0, 0, 0, 0.2);
+width: max-content;
+display: flex;
+flex-direction: column;
+padding: 0.7rem 1.7rem;
+z-index: 2;
+position: fixed;
+border-radius: 0 15px 15px 0px;
+  
+}
+a:after{
+    content: "";
+    position:absolute;
+    background-color: orange;
+    height: 3px;
+    width: 0;
+    left:0px;
+    right: 20px;
+    bottom: -5px;
+    transition: 0.3s;
+}
+a:hover::after{
+    width: 100%;
+}
