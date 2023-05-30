@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReacT-Project/static/css/main.815b10c9.css",
+    "main.js": "/ReacT-Project/static/js/main.e3f555ca.js",
+    "static/media/me.jpg": "/ReacT-Project/static/media/me.2f44b25076777cdb2d30.jpg",
+    "index.html": "/ReacT-Project/index.html",
+    "main.815b10c9.css.map": "/ReacT-Project/static/css/main.815b10c9.css.map",
+    "main.e3f555ca.js.map": "/ReacT-Project/static/js/main.e3f555ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.815b10c9.css",
+    "static/js/main.e3f555ca.js"
+  ]
+}
